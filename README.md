@@ -2,6 +2,9 @@
 
 🗔 Confira a aplicação: https://design-system-ignite.netlify.app/
 
+![image](https://user-images.githubusercontent.com/40027096/196329706-e1da8d2e-12d3-497a-9f59-b8500f4a9e1f.png)
+
+
 ## 🎲 O que é o Ignite Lab?
 
 Um evento 100% online, gratuito e mão na massa com foco em front-end, pra quem curte React e quer se especializar ainda mais nessa ferramenta, além de ser um projeto completo usando tecnologias modernas! 
@@ -29,6 +32,9 @@ A documentação dos componentes que fiz utilizando a tecnologia [Storybook](htt
 ## 👨‍🎨 Figma
 
 🗔  Confira o design: https://www.figma.com/file/siC7iUkMGfjsUt0P5nxRE5/IgniteLab---Design-System?node-id=0%3A1
+
+![image](https://user-images.githubusercontent.com/40027096/196329862-9e51c759-178f-4dc0-8330-377c5766a5ad.png)
+
 
 ## 🚀 Tecnologias
 - [Vite](https://vitejs.dev)
