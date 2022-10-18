@@ -7,8 +7,8 @@
 Um evento 100% online, gratuito e mão na massa com foco em front-end, pra quem curte React e quer se especializar ainda mais nessa ferramenta, além de ser um projeto completo usando tecnologias modernas! 
 
 - **O evento é direcionado para:**\
-✅ Devs que querem se especializar em React.
-✅ Devs que desejam se aprofundar em ferramentas e desenvolver um projeto novo para seu portfólio.
+✅ Devs que querem se especializar em React.\
+✅ Devs que desejam se aprofundar em ferramentas e desenvolver um projeto novo para seu portfólio.\
 ✅ Devs que querem aprofundar seus conhecimentos e se atualizar.
 
 - **Aulas**\
