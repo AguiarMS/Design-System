@@ -58,7 +58,7 @@ Antes de iniciar, você precisa ter [Git](https://git-scm.com) e [Node](https://
 $ git clone https://github.com/AguiarMS/Design-System
 
 # Access
-$ cd lab-design-system
+$ cd Design-System
 
 # Install dependencies
 $ yarn or npm
