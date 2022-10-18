@@ -1,11 +1,11 @@
 import { themes } from "@storybook/theming";
-import '../src/styles/global.css'
+import "../src/styles/global.css";
 
-import { initialize, mswDecorator } from 'msw-storybook-addon';
+import { initialize, mswDecorator } from "msw-storybook-addon";
 
 // Initialize MSW
 initialize({
-  onUnhandledRequest: 'bypass'
+  onUnhandledRequest: "bypass",
 });
 
 // Provide the MSW addon decorator globally
@@ -20,6 +20,10 @@ export const parameters = {
     },
     docs: {
       theme: themes.dark,
+    },
+    scripts: {
+      build: "vite build",
+      preview: "vite preview",
     },
   },
 };
